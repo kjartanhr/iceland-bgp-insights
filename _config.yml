@@ -1,2 +1,11 @@
-#theme: jekyll-theme-minima
-remote_theme: jekyll/minima
+title: Iceland BGP insights
+email: kjartann@kjartann.is
+description: Insights into Icelandic autonomous systems
+baseurl: ""
+url: "https://bgp.kjartann.is/"
+github_username: kjartanhr
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
